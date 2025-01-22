@@ -1,6 +1,10 @@
 # Changelog
 
-## v1.4.3 [Unreleased] (as of 2025-01-22)
+## v1.4.4 [Unreleased] (as of 2025-01-23)
+
+## v1.4.3 (2025-01-23)
+
+- hotfix: corrupted extension
 
 ## v1.4.2 (2025-01-22)
 

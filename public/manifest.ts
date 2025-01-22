@@ -72,12 +72,7 @@ export async function getManifest() {
         ],
         js: ['src/contentScript/index.js'],
       },
-    ],
-    web_accessible_resources: [
-      {
-        resources: ["/assets/profile/avatars/magic.gif"],
-      }
-    ],
+    ]
   };
 
   const manifest: Manifest.WebExtensionManifest = {
