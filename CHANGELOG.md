@@ -1,6 +1,10 @@
 # Changelog
 
-## v1.4.2 [Unreleased] (as of 2025-01-17)
+## v1.4.3 [Unreleased] (as of 2025-01-22)
+
+## v1.4.2 (2025-01-22)
+
+- hotfix: codon gif not showing on firefox
 
 ## v1.4.1 (2025-01-17)
 
