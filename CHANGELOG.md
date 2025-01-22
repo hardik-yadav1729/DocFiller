@@ -1,6 +1,10 @@
 # Changelog
 
-## v1.4.4 [Unreleased] (as of 2025-01-23)
+### v1.4.5 [Unreleased] (as of 2025-01-23)
+
+## v1.4.4 (2025-01-23)
+
+- fix: android firefox release was broken in CI/CD pipeline, fixed that
 
 ## v1.4.3 (2025-01-23)
 

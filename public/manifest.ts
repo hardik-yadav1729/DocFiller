@@ -92,6 +92,9 @@ export async function getManifest() {
           id: 'docFiller@rootcircle.github.io',
           strict_min_version: '109.0',
         },
+        gecko_android: {
+          strict_min_version: '120.0',
+        }
       }),
     },
   };
