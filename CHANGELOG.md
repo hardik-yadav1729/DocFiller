@@ -1,6 +1,8 @@
 # Changelog
 
-### v1.4.5 [Unreleased] (as of 2025-01-23)
+## v1.4.5 [Unreleased] (as of 2025-01-23)
+
+- bump deps
 
 ## v1.4.4 (2025-01-23)
 
