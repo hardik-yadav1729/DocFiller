@@ -87,6 +87,6 @@ We welcome contributions! If you would like to contribute to the development of 
 ## ✨ Contributors
 
 <a href="https://github.com/rootCircle/docFiller/graphs/contributors">
-  <img alt="Grid of profile icons of the contributors" src="https://contrib.rocks/image?repo=rootCircle/docFiller" />
+  <img alt="Grid of profile icons of the contributors" src="https://contrib.rocks/image?repo=hardik-yadav1729/docFiller" />
 </a>
 <!--  https://contrib.rocks -->
