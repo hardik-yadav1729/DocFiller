@@ -64,7 +64,7 @@
     "@types/chrome": "^0.0.306",
     "@types/firefox-webext-browser": "^120.0.4",
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^22.13.5",
+    "@types/node": "^24.0.1",
     "@types/webextension-polyfill": "^0.12.2",
     "chokidar": "^4.0.3",
     "concurrently": "^9.1.2",
